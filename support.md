@@ -111,4 +111,13 @@ When reporting a problem, please include:
 
 *Make Your Time Count.*
 
+---
+
+## 🔗 Useful Links
+
+- [Privacy Policy](./)
+- [Contact Support](mailto:YOUR_EMAIL@example.com)
+
+---
+
 © 2026 Life Currency. All rights reserved.
