@@ -125,4 +125,13 @@ If you have questions about this Privacy Policy or need assistance with Life Cur
 
 *Life Currency — Make Your Time Count.*
 
+---
+
+## 🔗 Useful Links
+
+- [Contact Support](./support.html)
+- [Privacy Policy](./)
+
+---
+
 © 2026 Life Currency. All rights reserved.
